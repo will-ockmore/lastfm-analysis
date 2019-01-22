@@ -1,0 +1,9 @@
+# python environment
+env
+
+# static data
+*.tsv
+*.csv
+
+# editor config
+.vscode
